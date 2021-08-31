@@ -1,0 +1,6 @@
+[submodule "mocha-toolkit"]
+	path = mocha-toolkit
+	url = git@github.com:glromeo/mocha-toolkit.git
+[submodule "tiny-node-logger"]
+	path = tiny-node-logger
+	url = git@github.com:glromeo/tiny-node-logger.git
