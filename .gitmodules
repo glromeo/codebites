@@ -4,3 +4,6 @@
 [submodule "tiny-node-logger"]
 	path = tiny-node-logger
 	url = git@github.com:glromeo/tiny-node-logger.git
+[submodule "esnext-server"]
+	path = esnext-server
+	url = git@github.com:glromeo/esnext-server.git

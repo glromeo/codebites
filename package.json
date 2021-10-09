@@ -6,7 +6,8 @@
   "private": true,
   "workspaces": [
     "mocha-toolkit",
-    "tiny-node-logger"
+    "tiny-node-logger",
+    "esnext-server"
   ],
   "devDependencies": {
     "@types/node": "^16.7.2",
