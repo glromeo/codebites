@@ -11,7 +11,7 @@
     "urlparser"
   ],
   "devDependencies": {
-    "@types/node": "^16.7.2",
+    "@types/node": "^16.11.9",
     "lerna": "^4.0.0"
   },
   "scripts": {
