@@ -5,10 +5,9 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "mocha-toolkit",
-    "tiny-node-logger",
     "esnext-server",
-    "urlparser"
+    "mocha-toolkit",
+    "tiny-node-logger"
   ],
   "devDependencies": {
     "@types/node": "^16.11.9",
