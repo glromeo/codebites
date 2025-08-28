@@ -10,11 +10,6 @@
     "tiny-node-logger"
   ],
   "devDependencies": {
-    "@types/node": "^16.11.9",
-    "lerna": "^4.0.0"
-  },
-  "scripts": {
-    "build": "lerna run build",
-    "build:watch": "lerna run build:watch --parallel"
+    "@types/node": "^22.18.0"
   }
 }
